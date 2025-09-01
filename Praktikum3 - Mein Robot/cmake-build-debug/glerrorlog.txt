@@ -1,0 +1,14 @@
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/Framework/src/Framework/Assets/AssetManager.cpp", line: 43:
+invalid operation
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/Framework/src/Framework/Assets/AssetManager.cpp", line: 43:
+invalid enum
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/Framework/src/Framework/Assets/AssetManager.cpp", line: 43:
+invalid enum
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/Framework/src/Framework/Assets/AssetManager.cpp", line: 43:
+invalid enum
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/VCAbgaben/Praktikum3/Praktikum3.2/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid value
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/VCAbgaben/Praktikum3/Praktikum3.2/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid value
+An OpenGL error occured at file: "D:/H_da/6.Semester/VC/VCAbgaben/Praktikum3/Praktikum3.2/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid value
