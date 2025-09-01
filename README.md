@@ -1,14 +1,14 @@
-Visual Computing – Praktikum 
+# Visual Computing – Praktikum 
 
 Dieses Projekt wurde im Rahmen des Moduls Visual Computing entwickelt und demonstriert die grundlegende Verwendung von OpenGL zur Darstellung und Animation eines 3D-Roboters mit Beleuchtung, Kamera-Transformation und Interaktivität.
 
-🚀 Features
+# Features
 
 Shader-Programmierung (GLSL): Ein Vertex- und Fragment-Shader wird geladen und mit Uniforms für Transformationen, Beleuchtung und Materialien konfiguriert.
 
 Geometrie mit Cube-Daten: Alle Körperteile des Roboters werden durch skalierte und transformierte Würfel dargestellt.
 
-Transformations-Matrizen:
+# Transformations-Matrizen:
 
 View-Matrix: Positioniert und orientiert die Kamera in der Szene.
 
@@ -16,13 +16,13 @@ Projection-Matrix: Sorgt für eine perspektivische Projektion der 3D-Szene auf d
 
 Model-Matrix: Wird individuell für jedes Körperteil des Roboters berechnet.
 
-Licht & Material:
+# Licht & Material:
 
 Punktlichtquelle mit Intensität und Ambient-Light
 
 Diffuse, spekulare und Emissions-Materialeigenschaften
 
-Animation:
+# Animation:
 
 Rotation des gesamten Roboters um die Y-Achse
 
